@@ -9,6 +9,9 @@ react-email/node_modules/
 # testing
 /coverage
 
+# env
+.env
+
 # next.js
 /.next/
 /out/
